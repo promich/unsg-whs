@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="svg-cloud" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	  viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve">
+
+<rect x="0" fill="none" width="200" height="200"/>
+<g>
+	<path fill="#a2d9f7" d="M165,53.8C157.5,24.7,131.7,3,100,3C75,3,53.3,16.3,41.7,37.2C18.3,41.3,0,61.3,0,86.3
+		c0,27.5,22.5,50,50,50c8.3,0,99.2,0,108.3,0c23.3,0,41.7-18.3,41.7-41.7C200,73.8,185,56.3,165,53.8z"/>
+<g id="arrow">
+	<path fill="#46b4f0" d="M86.3,162.9V85.8h27.4v77.1h20.6L100,197.2l-34.3-34.3H86.3z"/>
+</g>
+	<path fill="#a2d9f7" d="M64,60.6c0-25.6,20.8-46.4,46.4-46.4s46.4,20.8,46.4,46.4c0,25.6-20.8,46.4-46.4,46.4S64,86.2,64,60.6z"/>
+</g>
+</svg>
